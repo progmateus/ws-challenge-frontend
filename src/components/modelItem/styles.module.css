@@ -1,0 +1,25 @@
+.container {
+  padding: 0.5rem;
+  outline: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
+  width: 15rem;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+  height: 4rem;
+  margin-bottom: 1.5rem;
+}
+
+.descriptions {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.3rem 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  font-size: 14px;
+}
+
+.attribute {
+  font-size: 13px;
+}

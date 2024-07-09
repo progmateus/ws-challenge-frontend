@@ -1,0 +1,23 @@
+.tab {
+  font-size: 12px;
+  outline: 1px solid rgba(0, 0, 0, 0.4);
+  border-radius: 50px;
+  padding: 8px 12px;
+}
+
+.selectedTab {
+  font-size: 12px;
+  outline: 1px solid rgba(0, 0, 0, 0.4);
+  border-radius: 50px;
+  padding: 8px 12px;
+  background-color: #00897B;
+  outline: none;
+  color: white
+}
+
+.tab:hover {
+  background-color: #4DB6AC;
+  cursor: pointer;
+  color: white;
+  outline: none;
+}

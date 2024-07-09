@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  max-width: 75rem;
+  padding: 2rem 6rem;
+  flex-wrap: wrap;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}

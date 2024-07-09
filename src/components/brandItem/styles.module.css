@@ -1,0 +1,14 @@
+.container {
+  padding: 0.5rem;
+  outline: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
+  width: 15rem;
+  text-align: center;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+  height: 4rem;
+  margin-bottom: 1rem;
+}
